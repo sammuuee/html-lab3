@@ -1,0 +1,35 @@
+.hero {
+    background-color: #007bff;
+    color: white;
+    padding: 100px 0;
+    text-align: center;
+}
+.content {
+  padding: 50px 0;
+  
+}
+.footer {
+  background-color: #343a40;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+}
+.animal-card {
+  background-color: #7bff00; 
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.col-md-4 {
+  margin-bottom: 20px; 
+}
+
+.animal-card img {
+  display: block;
+  margin-top: 15px;
+  margin-right: 1000px;
+}
+
+.row > .col-md-4 {
+  margin-bottom: 30px; 
+}
